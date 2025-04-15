@@ -1,16 +1,18 @@
 # news_app
 
-A new Flutter project.
+# Project Setup Instructions
 
-## Getting Started
+## Step 1: Add your API key to `.env`
 
-This project is a starting point for a Flutter application.
+To get started, you need to add your API key to the `.env` file.
 
-A few resources to get you started if this is your first Flutter project:
+1. Create a file named `.env` in the root directory of the project if it doesn't already exist.
+2. Add the following line to the `.env` file: API_KEY=your_api_key_here
+3. Replace `your_api_key_here` with your actual API key that you obtained from the API provider.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This will allow the project to access the necessary API for functioning.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Project Demo
+
+Here is a demo of the project: [Demo]([https://docs.flutter.dev/](https://drive.google.com/drive/folders/14RM8xzIROvMDmGg52d9MdW-XFfl2NHgs?usp=drive_link))
+
