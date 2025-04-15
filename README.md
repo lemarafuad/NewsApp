@@ -2,8 +2,6 @@
 
 # Project Setup Instructions
 
-## Step 1: Add your API key to `.env`
-
 To get started, you need to add your API key to the `.env` file.
 
 1. Create a file named `.env` in the root directory of the project if it doesn't already exist.
