@@ -12,5 +12,5 @@ This will allow the project to access the necessary API for functioning.
 
 # Project Demo
 
-Here is a demo of the project: [Demo]([https://docs.flutter.dev/](https://drive.google.com/drive/folders/14RM8xzIROvMDmGg52d9MdW-XFfl2NHgs?usp=drive_link))
+Here is a demo of the project: [Demo](https://drive.google.com/drive/folders/14RM8xzIROvMDmGg52d9MdW-XFfl2NHgs?usp=drive_link)
 
